@@ -1,2 +1,2 @@
 # hello-word
-Beginner in software coding
+Beginner in software development. starting to learn html, css, javascript and python.
